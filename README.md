@@ -1,1 +1,4 @@
-# shop_bott
+aiogram==3.13.1
+aiosqlite==0.20.0
+APScheduler==3.10.4
+python-dotenv==1.0.1
